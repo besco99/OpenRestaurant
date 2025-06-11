@@ -1,11 +1,12 @@
-    [
+[
   {
     "id": 1,
     "name": "Spaghetti and Meatballs",
     "description": "Seasoned meatballs on top of freshly-made spaghetti. Served with a robust tomato sauce.",
     "price": 9.0,
     "category": "entrees",
-    "estimated_prep_time": 20
+    "estimated_prep_time": 20,
+    "imageURL": "https://besco99.github.io/OpenRestaurant/images/1.png"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "description": "Tomato sauce, fresh mozzarella, basil, and extra-virgin olive oil.",
     "price": 10.0,
     "category": "entrees",
-    "estimated_prep_time": 30
+    "estimated_prep_time": 30,
+    "imageURL": "https://besco99.github.io/OpenRestaurant/images/2.png"
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "description": "Pacific steelhead trout with lettuce, tomato, and red onion.",
     "price": 12.75,
     "category": "entrees",
-    "estimated_prep_time": 15
+    "estimated_prep_time": 15,
+    "imageURL": "https://besco99.github.io/OpenRestaurant/images/3.png"
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "description": "House-made ravioli filled with pine nuts, parmesan, ham, and mushrooms. Served over tomato sauce.",
     "price": 8.0,
     "category": "appetizers",
-    "estimated_prep_time": 12
+    "estimated_prep_time": 12,
+    "imageURL": "https://besco99.github.io/OpenRestaurant/images/4.png"
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "description": "Chicken simmered alongside yellow onions, carrots, celery, and bay leaves.",
     "price": 3.5,
     "category": "soups",
-    "estimated_prep_time": 5
+    "estimated_prep_time": 5,
+    "imageURL": "https://besco99.github.io/OpenRestaurant/images/5.png"
   },
   {
     "id": 6,
@@ -45,6 +50,7 @@
     "description": "Garlic, red onions, tomatoes, mushrooms, and olives on top of romaine lettuce.",
     "price": 5.0,
     "category": "salads",
-    "estimated_prep_time": 5
+    "estimated_prep_time": 5,
+    "imageURL": "https://besco99.github.io/OpenRestaurant/images/6.png"
   }
 ]
